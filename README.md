@@ -1,5 +1,14 @@
 magento-perfomance-checker
 ==========================
+
+### todo 
+
+- refactor
+- use https://github.com/lann/squirrel
+- when using DB then be compatible with Magento2
+- or use Magentos REST API but then only for Mage1 ... maybe.
+- Grab products from sales/[order|quote]_items to act also as a cache warmer
+
 Performance measuring tools for Magento Commerce based stores. 
 The main aim of this tool is to collect kind of "perfomance index" for store, in order to understand is store 
 became faster or slower than before. 
