@@ -8,6 +8,7 @@ magento-perfomance-checker
 - when using DB then be compatible with Magento2
 - or use Magentos REST API but then only for Mage1 ... maybe.
 - Grab products from sales/[order|quote]_items to act also as a cache warmer
+- Or also use [https://code.google.com/p/google-api-go-client/source/browse/analytics/v3/analytics-gen.go](https://code.google.com/p/google-api-go-client/source/browse/analytics/v3/analytics-gen.go) / [https://github.com/vly/go-gadata](https://github.com/vly/go-gadata) resp. Piwik API
 
 Performance measuring tools for Magento Commerce based stores. 
 The main aim of this tool is to collect kind of "perfomance index" for store, in order to understand is store 
